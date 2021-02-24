@@ -1,5 +1,11 @@
 # Storybook with Vue.js
 
+<h2 align="center">
+  <img src="./screenshot.png" alt="storybook-vue-sample" width="600px" />
+  <br>
+</h2>
+
+<!-- 
 [![](https://vueschool.io/media/f5552898136c232f4ab591f0357be0ec/storybook-with-vuejs.jpeg)](https://vueschool.io/courses/storybook-with-vuejs)
 
 This repository contains the example code for the [Storybook with Vue.js
@@ -60,4 +66,4 @@ npm run storybook:build
 
 ### Customize configuration
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/). -->
